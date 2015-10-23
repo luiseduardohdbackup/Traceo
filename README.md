@@ -15,18 +15,18 @@ Trace proxy to switch easily between Raygun / Xamarin Insights.
 
 ```c#
 var tracerProxy = new Traceo();
-tarcerProxy.SetTracer(new Tracer());
-tarcerProxy.Init( /* your api key here */);
+tracerProxy.SetTracer(new Tracer());
+tracerProxy.Init( /* your api key here */);
 ```
 
 ###Report an exception
 
 ```c#
-tarcerProxy.Report(exception);
+tracerProxy.Report(exception);
 ```
 
 ###Assign traits to an user
 
 ```c#
-tarcerProxy.IdentifyUser(/* user unique id */);
+tracerProxy.IdentifyUser(/* user unique id */);
 ```
