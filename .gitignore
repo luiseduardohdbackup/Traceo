@@ -1,0 +1,9 @@
+packages
+Traceo.Droid.Raygun/bin
+Traceo.Droid.Raygun/obj
+Traceo.Droid.XamarinInsights/bin
+Traceo.Droid.XamarinInsights/obj
+Traceo.iOS.Raygun/bin
+Traceo.iOS.XamarinInsights/bin
+Traceo/bin
+Traceo/obj

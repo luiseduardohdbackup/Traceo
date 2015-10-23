@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Traceo", "Traceo\Traceo.csproj", "{6EA5AD8E-2626-466C-9246-5DEDB7746D03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Traceo.iOS.Raygun", "Traceo.iOS.Raygun\Traceo.iOS.Raygun.csproj", "{BD3E7613-8858-4D56-A701-5AFEF28EB605}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Traceo.iOS.XamarinInsights", "Traceo.iOS.XamarinInsights\Traceo.iOS.XamarinInsights.csproj", "{911EEC12-48E0-4380-9FD5-4CC865BD573D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Traceo.Droid.Raygun", "Traceo.Droid.Raygun\Traceo.Droid.Raygun.csproj", "{E3F9E142-CD73-4CA2-9857-7B03360FA238}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Traceo.Droid.XamarinInsights", "Traceo.Droid.XamarinInsights\Traceo.Droid.XamarinInsights.csproj", "{0B75641B-CFF3-4FD9-AD06-AEA7C39CFD19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B75641B-CFF3-4FD9-AD06-AEA7C39CFD19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B75641B-CFF3-4FD9-AD06-AEA7C39CFD19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B75641B-CFF3-4FD9-AD06-AEA7C39CFD19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B75641B-CFF3-4FD9-AD06-AEA7C39CFD19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EA5AD8E-2626-466C-9246-5DEDB7746D03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EA5AD8E-2626-466C-9246-5DEDB7746D03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EA5AD8E-2626-466C-9246-5DEDB7746D03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EA5AD8E-2626-466C-9246-5DEDB7746D03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{911EEC12-48E0-4380-9FD5-4CC865BD573D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{911EEC12-48E0-4380-9FD5-4CC865BD573D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{911EEC12-48E0-4380-9FD5-4CC865BD573D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{911EEC12-48E0-4380-9FD5-4CC865BD573D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD3E7613-8858-4D56-A701-5AFEF28EB605}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD3E7613-8858-4D56-A701-5AFEF28EB605}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD3E7613-8858-4D56-A701-5AFEF28EB605}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD3E7613-8858-4D56-A701-5AFEF28EB605}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3F9E142-CD73-4CA2-9857-7B03360FA238}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3F9E142-CD73-4CA2-9857-7B03360FA238}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3F9E142-CD73-4CA2-9857-7B03360FA238}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3F9E142-CD73-4CA2-9857-7B03360FA238}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
